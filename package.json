@@ -18,4 +18,20 @@
     "@vitejs/plugin-react": "^2.2.0",
     "vite": "^3.2.3"
   }
+
+  "dependencies": {
+    "firebase": "^10.x.x",
+    "react": "^18.x.x",
+    "react-dom": "^18.x.x",
+    "react-router-dom": "^6.x.x"
+  },
+  "devDependencies": {
+    "@types/react": "^18.x.x",
+    "@types/react-dom": "^18.x.x",
+    "@vitejs/plugin-react": "^4.x.x",
+    "autoprefixer": "^10.x.x",
+    "postcss": "^8.x.x",
+    "tailwindcss": "^3.x.x",
+    "vite": "^5.x.x"
+  }
 }
